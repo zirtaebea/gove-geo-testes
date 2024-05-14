@@ -1,0 +1,149 @@
+,BAIRRO,IDHM,niveis
+0,Acupe,0.79,Médio
+1,Aeroporto,0.907,Alto
+2,Alto da Terezinha,0.639,Baixo
+3,Alto das Pombas,0.69,Baixo
+4,Alto do Cabrito,0.661,Baixo
+5,Amaralina,0.777,Médio
+6,Areia Branca,0.642,Baixo
+7,Arenoso,0.662,Baixo
+8,Arraial do Retiro,0.735,Médio
+9,Bairro da Paz,0.722,Médio
+10,Baixa de Quintas,0.743,Médio
+11,Barbalho,0.837,Alto
+12,Barra,0.854,Alto
+13,Barreiras,0.776,Médio
+14,Barris,0.854,Alto
+15,Boa Viagem,0.812,Alto
+16,Boa Vista de Brotas,0.867,Alto
+17,Boa Vista de São Caetano,0.68,Baixo
+18,Boca da Mata,0.715,Médio
+19,Boca do Rio,0.736,Médio
+20,Bom Juá,0.7,Baixo
+21,Bonfim,0.826,Alto
+22,Brotas,0.813,Alto
+23,Cabula,0.811,Alto
+24,Cabula VI,0.826,Alto
+25,Caixa D’Água,0.718,Médio
+26,Cajazeiras II,0.713,Médio
+27,Cajazeiras V,0.697,Baixo
+28,Cajazeiras VI,0.697,Baixo
+29,Cajazeiras VII,0.697,Baixo
+30,Cajazeiras VIII,0.697,Baixo
+31,Calabar,0.759,Médio
+32,Calabetão,0.66,Baixo
+33,Calçada,0.679,Baixo
+34,Caminho de Areia,0.783,Médio
+35,Campinas de Pirajá,0.665,Baixo
+36,Canabrava,0.808,Alto
+37,Candeal,0.873,Alto
+38,Canela,0.945,Alto
+39,Capelinha,0.692,Baixo
+40,Cassange,0.607,Baixo
+41,Castelo Branco,0.709,Médio
+42,Centro,0.745,Médio
+43,Centro Histórico,0.791,Médio
+44,Chapada do Rio Vermelho,0.82,Alto
+45,Cidade Nova,0.743,Médio
+46,Comércio,0.771,Médio
+47,Cosme de Farias,0.719,Médio
+48,Costa Azul,0.83,Alto
+49,Coutos,0.692,Baixo
+50,Curuzu,0.69,Baixo
+51,Dom Avelar,0.733,Médio
+52,Doron,0.852,Alto
+53,Engenho Velho da Federação,0.773,Médio
+54,Engenho Velho de Brotas,0.746,Médio
+55,Engomadeira,0.662,Baixo
+56,Fazenda Coutos,0.639,Baixo
+57,Fazenda Grande I,0.687,Baixo
+58,Fazenda Grande II,0.694,Baixo
+59,Fazenda Grande III,0.733,Médio
+60,Fazenda Grande do Retiro,0.7,Baixo
+61,Federação,0.785,Médio
+62,Garcia,0.787,Médio
+63,Granjas Rurais Presidente Vargas,0.655,Baixo
+64,Graça,0.945,Alto
+65,IAPI,0.778,Médio
+66,Ilha de Bom Jesus dos Passos,0.611,Baixo
+67,Ilha de Maré,0.594,Baixo
+68,Ilha dos Frades,0.578,Baixo
+69,Imbuí,0.762,Médio
+70,Itacaranha,0.688,Baixo
+71,Itaigara,0.952,Alto
+72,Itapuã,0.8,Médio
+73,Itinga,0.688,Baixo
+74,Jaguaripe,0.655,Baixo
+75,Jardim Armação,0.931,Alto
+76,Jardim Cajazeiras,0.663,Baixo
+77,Jardim Nova Esperança,0.791,Médio
+78,Jardim Santo Inácio,0.73,Médio
+79,Jardim das Margaridas,0.787,Médio
+80,Lapinha,0.798,Médio
+81,Liberdade,0.742,Médio
+82,Lobato,0.661,Baixo
+83,Macaúbas,0.757,Médio
+84,Mangueira,0.69,Baixo
+85,Marechal Rondon,0.665,Baixo
+86,Mares,0.799,Médio
+87,Massaranduba,0.708,Médio
+88,Mata Escura,0.743,Médio
+89,Matatu,0.786,Médio
+90,Monte Serrat,0.792,Médio
+91,Moradas da Lagoa,0.649,Baixo
+92,Mussurunga,0.747,Médio
+93,Narandiba,0.784,Médio
+94,Nazaré,0.847,Alto
+95,Nordeste de Amaralina,0.777,Médio
+96,Nova Brasília,0.784,Médio
+97,Nova Constituinte,0.578,Baixo
+98,Nova Sussuarana,0.651,Baixo
+99,Novo Horizonte,0.769,Médio
+100,Ondina,0.831,Alto
+101,Palestina,0.646,Baixo
+102,Paripe,0.688,Baixo
+103,Patamares,0.903,Alto
+104,Pau Miúdo,0.743,Médio
+105,Pau da Lima,0.723,Médio
+106,Periperi,0.716,Médio
+107,Pernambués,0.82,Alto
+108,Pero Vaz,0.693,Baixo
+109,Piatã,0.926,Alto
+110,Pirajá,0.704,Médio
+111,Pituaçu,0.785,Médio
+112,Pituba,0.816,Alto
+113,Plataforma,0.737,Médio
+114,Porto Seco Pirajá,0.655,Baixo
+115,Praia Grande,0.639,Baixo
+116,Resgate,0.842,Alto
+117,Retiro,0.723,Médio
+118,Ribeira,0.784,Médio
+119,Rio Sena,0.639,Baixo
+120,Rio Vermelho,0.819,Alto
+121,Roma,0.799,Médio
+122,Saboeiro,0.837,Alto
+123,Santa Cruz,0.82,Alto
+124,Santa Luzia,0.661,Baixo
+125,Santa Mônica,0.854,Alto
+126,Santo Agostinho,0.776,Médio
+127,Santo Antônio,0.731,Médio
+128,Saramandaia,0.611,Baixo
+129,Saúde,0.824,Alto
+130,Sete de Abril,0.684,Baixo
+131,Stiep,0.829,Alto
+132,Sussuarana,0.712,Médio
+133,São Caetano,0.718,Médio
+134,São Cristóvão,0.718,Médio
+135,São Gonçalo,0.672,Baixo
+136,São João do Cabrito,0.648,Baixo
+137,São Marcos,0.663,Baixo
+138,São Rafael,0.79,Médio
+139,Tororó,0.833,Alto
+140,Trobogy,0.768,Médio
+141,Uruguai,0.656,Baixo
+142,Vale das Pedrinhas,0.726,Médio
+143,Vale dos Lagos,0.799,Médio
+144,Valéria,0.672,Baixo
+145,Vila Canária,0.754,Médio
+146,Vitória,0.952,Alto
+147,Águas Claras,0.702,Médio
